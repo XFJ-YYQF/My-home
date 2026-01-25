@@ -1,279 +1,182 @@
 {
-  "name": "KASUIEの主页✨",
-  "favicon": "/favicon.ico",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "name": "XFJの主页✨",
+  "favicon": "https://lsky.minecraftxfj.top/uploads/2025/11/12/691375305aee9.png",
+  "keywords": "XFJの名片,XFJ的个人名片,XFJ,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "XFJの名片，集合索引，个人主页",
+  "domain": "",
   "avatarConfig": {
-    "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    "src": "https://lsky.minecraftxfj.top/uploads/2025/11/12/691375316179d.jpg",
     "size": 150,
     "round": "full",
-    "style": "wave",
+    "style": "glint",
     "hoverAnimate": "top",
     "hidden": false,
-    "aloneRight": false
+    "aloneRight": true
   },
   "bgConfig": {
-    "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
-    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
-    "bgStyle": "snow",
-    "blur": "",
+    "bg": "https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp",
+    "mbg": "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp",
+    "audio": null,
+    "bgStyle": "sakura",
+    "blur": "sm",
     "cardOpacity": 0.1,
-    "carousel": true,
     "carouselGap": 5,
-    "transitionTime": 0.7,
     "transitionStyle": "default",
+    "transitionTime": 0.7,
+    "carousel": true,
     "autoAnimate": false
   },
   "globalStyle": {
-    "primaryColor": "#0dbf56",
+    "primaryColor": "#39c5bb",
     "theme": "switcher",
+    "fallback": null,
+    "fonts": null,
     "weather": true
   },
   "layoutConfig": {
-    "gapSize": "lg",
-    "style": "",
+    "gapSize": "md",
+    "style": "horizontal",
     "istTransition": true
   },
   "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
   "subTitleConfig": {
-    "typing": true,
     "loading": "wave",
-    "loopTyping": true,
+    "typingGap": 10,
+    "style": "desc",
+    "desc": "旧枝繁现新芽;新叶遮护老花;复始来去 同入泥沙",
+    "content": "Hello💫，这里是XFJの主页",
+    "gapDelay": 0.05,
+    "heart": true,
+    "typing": false,
+    "loopTyping": false,
     "shadow": false,
     "typingCursor": true,
-    "showFrom": true,
-    "style": "desc",
-    "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "showFrom": true
   },
   "links": [
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_aAWyaXMKuMGk6ZorK1jFnaBMkACbHtp&authKey=LaXCeq9eYzwzZ920mvD1fiIENQyCQKmEtxwLmdaO1rH62XWiF2ywecFR9fcB95ga&noverify=0&group_code=1055200096",
       "icon": "qq"
-    },
-    {
-      "title": "telegram",
-      "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
-      "icon": "telegram"
-    },
-    {
-      "title": "github",
-      "color": "#000000",
-      "url": "https://github.com/kasuie",
-      "icon": "github"
-    },
-    {
-      "title": "twitter",
-      "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
-      "icon": "twitter"
-    },
-    {
-      "title": "email",
-      "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
-      "icon": "email"
-    },
-    {
-      "title": "steam",
-      "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
-      "icon": "steam"
     },
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://b23.tv/Vt76ym5",
       "icon": "bilibili"
+    },
+    {
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/73/b7/5473b782-e472-c896-6c1b-b4aaaa97a15a/Placeholder.mill/400x400bb-75.webp",
+      "title": "coolapk",
+      "url": "http://www.coolapk.com/u/2998178",
+      "color": "#000000"
+    },
+    {
+      "title": "x",
+      "color": "#ff0000",
+      "url": "https://x.com/Minecraftxfj?t=etEg_5YM3uvKJsLuzhYXWw&s=09",
+      "icon": "x"
+    },
+    {
+      "title": "telegram",
+      "icon": "telegram",
+      "url": "https://t.me/boost/mikumikuxfj",
+      "color": "#1da1f2"
+    },
+    {
+      "title": "discord",
+      "icon": "discord",
+      "url": "https://discord.gg/aVUehvB5Qt",
+      "color": "#7289d9"
+    },
+    {
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/c3/bc/8ac3bc6a-2d2b-5c22-5fde-1a06c9532b69/Placeholder.mill/400x400bb-75.webp",
+      "title": "yhchat",
+      "color": "#000000",
+      "url": "https://yhfx.jwznb.com/share?key=E0xcvz8HuV2J&ts=1740416164"
     }
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
-      "desc": "博客主页"
+      "icon": "https://lsky.minecraftxfj.top/uploads/2025/11/12/6913740d813dc.png",
+      "title": "XFJの名片",
+      "url": "https://minecraftxfj.top",
+      "desc": "就是这里"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "Mio 导航",
-      "url": "https://nav.kasuie.cc",
-      "desc": "Mio 网站导航"
+      "title": "XFJの博客",
+      "desc": "半废弃状态",
+      "url": "http://halo.minecraftxfj.top",
+      "icon": "https://lsky.minecraftxfj.top/uploads/2025/11/12/69137c3e54b08.png"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
+      "title": "视奸我自己",
+      "desc": "似了吗？",
+      "url": "https://look.minecraftxfj.top",
+      "icon": "https://lsky.minecraftxfj.top/uploads/2025/11/13/6914d80fac38d.jpg"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "KASUIEの库",
-      "url": "https://dist.kasuie.cc",
-      "desc": "网盘挂载程序"
+      "title": "公共聊天室",
+      "desc": "敬请期待",
+      "url": "https://chat.minecraftxfj.top"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      "title": "KASUIEの图床",
-      "url": "https://upload.kasuie.cc",
-      "desc": "图床服务"
+      "title": "状态监控",
+      "desc": "敬请期待",
+      "url": "https://state.minecraftxfj.top"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "监控服务",
-      "url": "https://status.kasuie.cc/status",
-      "desc": "服务程序监控"
+      "icon": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
+      "title": "XFJの盘",
+      "desc": "Alist"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
-      "url": "https://docs.kasuie.cc",
-      "desc": "文档服务"
+      "icon": "",
+      "title": "Alist",
+      "url": "https://halov4.minecraftxfj.top/",
+      "desc": "主力"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "杂七杂八",
-      "desc": "阿巴阿巴..."
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
+      "title": "Alist",
+      "desc": "备用",
+      "url": "https://alist.minecraftxfj.top/",
+      "icon": ""
     }
   ],
   "sitesConfig": {
+    "cardStyle": "default",
+    "direction": "row",
+    "modalTitle": null,
+    "modalTips": "主力方法使用的是STUN内网穿透，备用方法直接进行DDNS，因此在不同网络环境下访问速度可能会有很大区别，建议小文件下载使用主力方法，大文件下载使用备用方法",
     "hidden": false,
-    "cardStyle": "",
     "hoverBlur": true,
     "hoverScale": true,
     "hoverFlip": true,
-    "direction": "row",
-    "modal": true,
-    "modalTips": "这里大多都是初学时开发的，算是练手的，技术力不高，看起来也很不好看，算是黑历史，但也算是一段记忆的载体了，所以我想把它保存在此。",
-    "modalTitle": ""
+    "modal": true
   },
   "socialConfig": {
-    "autoAnimate": true,
     "loading": "wave",
     "ripple": true
   },
   "sliders": {
-    "data": [
-      {
-        "title": "JavaScript/TypeScript",
-        "value": 70,
-        "icon": "qq"
-      },
-      {
-        "title": "CSS/CSS3",
-        "value": 70,
-        "icon": "qq"
-      },
-      {
-        "title": "React",
-        "value": 40,
-        "icon": "qq"
-      },
-      {
-        "title": "Vue",
-        "value": 60,
-        "icon": "qq"
-      },
-      {
-        "title": "Next.js",
-        "value": 50
-      },
-      {
-        "title": "Nuxt.js",
-        "value": 20
-      },
-      {
-        "title": "Three.js",
-        "value": 10
-      },
-      {
-        "title": "Node.js",
-        "value": 30
-      },
-      {
-        "title": "Electron",
-        "value": 5
-      },
-      {
-        "title": "Spring Boot",
-        "value": 40
-      },
-      {
-        "title": "Linux",
-        "value": 60
-      },
-      {
-        "title": "Mysql",
-        "value": 55
-      },
-      {
-        "title": "Docker",
-        "value": 45
-      }
-    ],
     "title": "技能加点",
-    "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
-    "hidden": false,
-    "column": 4
+    "color": "#fff",
+    "column": 2,
+    "hidden": true,
+    "data": null
   },
   "footer": {
-    "text": "© 2020 - 2025 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
-    "MPSICP": "京公网安备xxxxxxxx号",
-    "direction": "col-reverse",
+    "text": "感谢KASUIE大佬的开源项目~",
+    "url": "https://github.com/kasuie/remio-home",
+    "ICP": "萌ICP备20250390号",
+    "MPSICP": null,
+    "direction": "col",
     "isExternal": true
   },
   "resources": {
     "css": [],
     "js": [],
-    "bodyHtml": ""
-  },
-  "domain": "https://remio-home.vercel.app"
+    "bodyHtml": null
+  }
 }

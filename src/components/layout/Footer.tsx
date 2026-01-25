@@ -64,7 +64,7 @@ export function Footer({
           )}
           {footer?.ICP && (
             <Link
-              href={"https://beian.miit.gov.cn"}
+              href={"https://icp.gov.moe/?keyword=20250390"}
               target="_blank"
               className="flex flex-nowrap items-center gap-1"
             >
