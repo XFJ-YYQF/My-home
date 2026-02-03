@@ -79,30 +79,18 @@
       "icon": "x"
     },
     {
-      "title": "telegram",
-      "icon": "telegram",
-      "url": "https://t.me/boost/mikumikuxfj",
-      "color": "#1da1f2"
-    },
-    {
       "title": "discord",
       "icon": "discord",
       "url": "https://discord.gg/aVUehvB5Qt",
       "color": "#7289d9"
-    },
-    {
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/c3/bc/8ac3bc6a-2d2b-5c22-5fde-1a06c9532b69/Placeholder.mill/400x400bb-75.webp",
-      "title": "yhchat",
-      "color": "#000000",
-      "url": "https://yhfx.jwznb.com/share?key=E0xcvz8HuV2J&ts=1740416164"
     }
   ],
   "sites": [
     {
-      "icon": "https://lsky.minecraftxfj.top/uploads/2025/11/12/6913740d813dc.png",
-      "title": "XFJの名片",
-      "url": "https://minecraftxfj.top",
-      "desc": "就是这里"
+      "icon": "https://siiway.org/favicon.svg",
+      "title": "SiiWay Team",
+      "url": "https://siiway.org/",
+      "desc": "SiiWay Team Home"
     },
     {
       "title": "XFJの博客",
