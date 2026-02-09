@@ -61,10 +61,22 @@
       "icon": "qq"
     },
     {
-      "title": "bilibili",
-      "color": "#0088cc",
-      "url": "https://b23.tv/Vt76ym5",
-      "icon": "bilibili"
+      "title": "discord",
+      "icon": "discord",
+      "url": "https://discord.gg/aVUehvB5Qt",
+      "color": "#7289d9"
+    },
+    {
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/7d/8f/e77d8faa-bfed-f39a-fd8d-2d945b2441ac/Placeholder.mill/200x200bb-75.webp",
+      "title": "signal",
+      "url": "https://signal.group/#CjQKIK0nQbBchb-doGrW31JdMmmcQTbkz_ilbVtQQv6B8OpSEhDsfiIsbaTFVfHkhn2jJOH1",
+      "color": "#000000"
+    },
+    {
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/46/ab/f846ab90-47ab-6d04-530a-c00a94e6c996/Placeholder.mill/200x200bb-75.webp",
+      "title": "yunhu",
+      "url": "https://yhfx.jwznb.com/share?key=zKdIVO46WvkG&ts=1770602977",
+      "color": "#000000"
     },
     {
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/73/b7/5473b782-e472-c896-6c1b-b4aaaa97a15a/Placeholder.mill/400x400bb-75.webp",
@@ -73,16 +85,16 @@
       "color": "#000000"
     },
     {
+      "title": "bilibili",
+      "color": "#0088cc",
+      "url": "https://b23.tv/Vt76ym5",
+      "icon": "bilibili"
+    },
+    {
       "title": "x",
       "color": "#ff0000",
       "url": "https://x.com/Minecraftxfj?t=etEg_5YM3uvKJsLuzhYXWw&s=09",
       "icon": "x"
-    },
-    {
-      "title": "discord",
-      "icon": "discord",
-      "url": "https://discord.gg/aVUehvB5Qt",
-      "color": "#7289d9"
     }
   ],
   "sites": [
