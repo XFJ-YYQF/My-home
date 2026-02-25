@@ -18,6 +18,7 @@ export default function StyleRegistry() {
       font-family: HYTMR;
       src: url("https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2")
         format("woff2");
+      font-display: swap;
       font-weight: normal;
       font-style: normal;
     }
@@ -32,6 +33,7 @@ export default function StyleRegistry() {
             @font-face {
                 font-family: ${curr?.name};
                 src: url("${curr?.src}");
+                font-display: swap;
                 font-weight: normal;
                 font-style: normal;
             }
