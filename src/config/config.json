@@ -1,11 +1,11 @@
 {
   "name": "XFJの主页✨",
-  "favicon": "https://lsky.minecraftxfj.top/uploads/2025/11/12/691375305aee9.png",
+  "favicon": "https://lsky.minecraftxfj.top/uploads/2026/02/25/699ef18030f52.jpeg",
   "keywords": "XFJの名片,XFJ的个人名片,XFJ,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "XFJの名片，集合索引，个人主页",
   "domain": "minecraftxfj.top",
   "avatarConfig": {
-    "src": "https://lsky.minecraftxfj.top/uploads/2025/11/12/691375316179d.jpg",
+    "src": "https://lsky.minecraftxfj.top/uploads/2026/02/25/699ef18556471.png",
     "size": 150,
     "round": "full",
     "style": "glint",
@@ -96,6 +96,12 @@
       "icon": "bilibili"
     },
     {
+      "title": "github",
+      "color": "#000000",
+      "url": "https://github.com/XFJ-YYQF",
+      "icon": "github"
+    },
+    {
       "title": "x",
       "color": "#ff0000",
       "url": "https://x.com/Minecraftxfj?t=etEg_5YM3uvKJsLuzhYXWw&s=09",
@@ -178,7 +184,7 @@
     "ICP": "萌ICP备20250390号",
     "MPSICP": null,
     "direction": "col",
-    "isExternal": true
+    "isExternal": false
   },
   "resources": {
     "css": [],
