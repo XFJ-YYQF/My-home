@@ -32,7 +32,7 @@
     "fallback": null,
     "fonts": [
     {
-        "src": "/fonts/MaokenZhuyuanTi.ttf",
+        "src": "/fonts/MaokenZhuyuanTi.woff2",
         "name": "MaokenZhuyuanTi"
     }
     ],
