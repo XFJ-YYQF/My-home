@@ -36,7 +36,7 @@
         "name": "MaokenZhuyuanTi"
     }
     ],
-    "weather": true
+    "weather": false
   },
   "layoutConfig": {
     "gapSize": "md",
