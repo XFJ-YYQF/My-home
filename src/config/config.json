@@ -31,11 +31,9 @@
     "theme": "switcher",
     "fallback": null,
     "fonts": [
-      {
         "src": "/fonts/MaokenZhuyuanTi.ttf"
         "name": "MaokenZhuyuanTi"
-      }
-    ],
+     ],
     "weather": true
   },
   "layoutConfig": {
