@@ -30,10 +30,10 @@
     "primaryColor": "#39c5bb",
     "theme": "switcher",
     "fallback": null,
-    "fonts": [
+    "fonts": {
         "src": "/fonts/MaokenZhuyuanTi.ttf"
         "name": "MaokenZhuyuanTi"
-     ],
+    },
     "weather": true
   },
   "layoutConfig": {
