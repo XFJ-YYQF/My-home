@@ -141,18 +141,18 @@
     {
       "icon": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg",
       "title": "XFJの盘",
-      "desc": "Alist"
+      "desc": "Openlist"
     },
     {
       "icon": "",
-      "title": "Alist",
+      "title": "Openlist",
       "url": "https://halov4.minecraftxfj.top/",
       "desc": "主力"
     },
     {
-      "title": "Alist",
+      "title": "Openlist",
       "desc": "备用",
-      "url": "https://alist.minecraftxfj.top/",
+      "url": "https://openlist.minecraftxfj.top/",
       "icon": ""
     }
   ],
