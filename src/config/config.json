@@ -5,7 +5,7 @@
   "description": "XFJの名片，集合索引，个人主页",
   "domain": "minecraftxfj.top",
   "avatarConfig": {
-    "src": "https://lsky.minecraftxfj.top/uploads/2026/02/25/699ef969b0bce.webp",
+    "src": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/home.webp",
     "size": 150,
     "round": "full",
     "style": "glint",
