@@ -1,6 +1,6 @@
 {
   "name": "XFJの主页✨",
-  "favicon": "https://lsky.minecraftxfj.top/uploads/2026/02/25/699ef18030f52.jpeg",
+  "favicon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/url.webp",
   "keywords": "XFJの名片,XFJ的个人名片,XFJ,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "XFJの名片，集合索引，个人主页",
   "domain": "minecraftxfj.top",
@@ -119,13 +119,13 @@
       "title": "XFJの博客",
       "desc": "半废弃（ps.看看友链？）",
       "url": "http://halo.minecraftxfj.top",
-      "icon": "https://lsky.minecraftxfj.top/uploads/2026/02/25/699efc41cbb09.webp"
+      "icon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/blog.webp"
     },
     {
       "title": "视奸我自己",
       "desc": "似了吗？",
       "url": "https://look.minecraftxfj.top",
-      "icon": "https://lsky.minecraftxfj.top/uploads/2026/02/25/699efb2ff395f.webp"
+      "icon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/look.webp"
     },
     {
       "title": "公共聊天室",
