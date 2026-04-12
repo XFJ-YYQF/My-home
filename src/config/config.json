@@ -5,7 +5,7 @@
   "description": "XFJの名片，集合索引，个人主页",
   "domain": "minecraftxfj.top",
   "avatarConfig": {
-    "src": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/home.webp",
+    "src": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/home128.webp",
     "size": 150,
     "round": "full",
     "style": "glint",
@@ -119,13 +119,13 @@
       "title": "XFJの博客",
       "desc": "半废弃（ps.看看友链？）",
       "url": "http://halo.minecraftxfj.top",
-      "icon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/blog.webp"
+      "icon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/blog42.webp"
     },
     {
       "title": "视奸我自己",
       "desc": "似了吗？",
       "url": "https://look.minecraftxfj.top",
-      "icon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/look.webp"
+      "icon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/look42.webp"
     },
     {
       "title": "公共聊天室",
@@ -139,7 +139,7 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/db/56/02db5678-c501-0d85-a6fa-d83f78fa4143/Placeholder.mill/48x48bb-75.webp"
     },
     {
-      "icon": "https://res.oplist.org.cn/logo/logo.png",
+      "icon": "https://doc.oplist.org.cn/favicon.svg",
       "title": "XFJの盘",
       "desc": "OpenList"
     },
