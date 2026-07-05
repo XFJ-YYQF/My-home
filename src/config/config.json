@@ -153,12 +153,24 @@
       "icon": "",
       "title": "OpenList",
       "url": "https://azhe-openlistv4.minecraftxfj.top",
-      "desc": "IPv4"
+      "desc": "IPv4-az"
     },
     {
       "title": "OpenList",
-      "desc": "IPv6",
+      "desc": "IPv6-az",
       "url": "https://azhe-openlistv6.minecraftxfj.top",
+      "icon": ""
+    },
+    {
+      "icon": "",
+      "title": "OpenList",
+      "url": "https://halov4.minecraftxfj.top",
+      "desc": "主力"
+    },
+    {
+      "title": "OpenList",
+      "desc": "备用",
+      "url": "https://openlist.minecraftxfj.top",
       "icon": ""
     }
   ],
@@ -166,7 +178,7 @@
     "cardStyle": "default",
     "direction": "row",
     "modalTitle": null,
-    "modalTips": "感谢 [啊这](https://azhee.cn/) 提供的家里云服务器支持~",
+    "modalTips": "主力方法为内网穿透，备用方法为DDNS，因此在不同网络环境下访问速度可能会有很大区别，建议小文件下载使用主力方法，大文件下载使用备用方法；感谢 [啊这](https://azhee.cn) 提供的家里云服务器支持~；以下哪个能用用哪个",
     "hidden": false,
     "hoverBlur": true,
     "hoverScale": true,
