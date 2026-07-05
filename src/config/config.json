@@ -152,13 +152,13 @@
     {
       "icon": "",
       "title": "OpenList",
-      "url": "https://halov4.minecraftxfj.top/",
-      "desc": "主力"
+      "url": "https://azhe-openlistv4.minecraftxfj.top",
+      "desc": "IPv4"
     },
     {
       "title": "OpenList",
-      "desc": "备用",
-      "url": "https://openlist.minecraftxfj.top/",
+      "desc": "IPv6",
+      "url": "https://azhe-openlistv6.minecraftxfj.top",
       "icon": ""
     }
   ],
@@ -166,7 +166,7 @@
     "cardStyle": "default",
     "direction": "row",
     "modalTitle": null,
-    "modalTips": "主力方法使用的是STUN内网穿透，备用方法直接进行DDNS，因此在不同网络环境下访问速度可能会有很大区别，建议小文件下载使用主力方法，大文件下载使用备用方法",
+    "modalTips": "感谢 [啊这](https://azhee.cn/) 提供的家里云服务器支持~",
     "hidden": false,
     "hoverBlur": true,
     "hoverScale": true,
