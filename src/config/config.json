@@ -3,7 +3,7 @@
   "favicon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/url.webp",
   "keywords": "XFJの名片,XFJ的个人名片,XFJ,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "XFJの名片，集合索引，个人主页",
-  "domain": "minecraftxfj.top",
+  "domain": "sakurasnow.cn",
   "avatarConfig": {
     "src": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/home192.webp",
     "size": 150,
@@ -177,13 +177,13 @@
     {
       "icon": "",
       "title": "OpenList",
-      "url": "https://halov4.minecraftxfj.top",
+      "url": "https://openlist.sakurasnow.cn",
       "desc": "主力"
     },
     {
       "title": "OpenList",
       "desc": "备用",
-      "url": "https://openlist.minecraftxfj.top",
+      "url": "https://openlist.sakurayuki.cn",
       "icon": ""
     }
   ],
