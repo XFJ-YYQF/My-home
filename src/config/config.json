@@ -1,8 +1,8 @@
 {
-  "name": "XFJの主页✨",
+  "name": "夜桜侵雪の主页✨",
   "favicon": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/url.webp",
-  "keywords": "XFJの名片,XFJ的个人名片,XFJ,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "XFJの名片，集合索引，个人主页",
+  "keywords": "夜桜侵雪の名片,夜桜侵雪的个人名片,夜桜侵雪,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "夜桜侵雪の名片，集合索引，个人主页",
   "domain": "sakurasnow.cn",
   "avatarConfig": {
     "src": "https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/home192.webp",
@@ -49,7 +49,7 @@
     "typingGap": 10,
     "style": "desc",
     "desc": "旧枝繁现新芽;新叶遮护老花;复始来去 同入泥沙",
-    "content": "Hello💫，这里是XFJの主页",
+    "content": "Hello💫，这里是夜桜侵雪の主页",
     "gapDelay": 0.05,
     "heart": true,
     "typing": false,
@@ -86,7 +86,7 @@
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://m.bilibili.com/space/518725775",
+      "url": "https://space.bilibili.com/518725775",
       "icon": "bilibili"
     },
     {
